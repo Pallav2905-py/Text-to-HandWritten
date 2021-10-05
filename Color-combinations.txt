@@ -1,0 +1,17 @@
+#Author: Pallav
+
+rgb=(0,0,0)
+Default Color![Black]
+
+r=Red
+g=Green
+b=Blue
+
+(0,0,0) Are the saturation of Red, Green and Blue Resp.
+
+
+Per-Made color combos-
+For Black "rgb=(10,10,10)"
+For Blue "rgb=(0,0,100)"
+For Red "rgb=(100,0,0)"
+For Green "rgb=(0,100,0)"
